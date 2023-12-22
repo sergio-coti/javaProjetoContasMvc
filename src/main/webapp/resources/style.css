@@ -1,0 +1,27 @@
+/* 
+	formatação das mensagens de erro do JQuery Validation 
+*/
+label.error {
+	color: red;
+}
+
+/*
+	formatação dos campos de texto com erro no JQuery Validation
+*/
+input.error {
+	border: 2px solid red;
+}
+
+/*
+	formatação dos campos de seleção com erro no JQuery Validation
+*/
+select.error {
+	border: 2px solid red;
+}
+
+/*
+	formatação dos campos de área de texto com erro no JQuery Validation
+*/
+textarea.error {
+	border: 2px solid red;
+}
